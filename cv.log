@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.6.10)  2 JUL 2014 09:41
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.7.16)  26 AUG 2014 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1086,6 +1086,7 @@ LaTeX Info: Redefining \nameref on input line 17.
 \@outlinefile=\write4
 \openout4 = `cv.out'.
 
+\pagenumberwidth=\skip78
 \makecvtitledetailsbox=\box53
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -1120,13 +1121,13 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box54
 
-<Normandie-53.jpg, id=24, 2055.68pt x 1361.085pt>
+<Normandie-53.jpg, id=25, 2055.68pt x 1361.085pt>
 File: Normandie-53.jpg Graphic file (type jpg)
  <use Normandie-53.jpg>
 Package pdftex.def Info: Normandie-53.jpg used on input line 19.
 (pdftex.def)             Requested size: 64.0pt x 42.36765pt.
-\makecvtitledetailswidth=\skip78
-\makecvtitlepicturewidth=\skip79
+\makecvtitledetailswidth=\skip79
+\makecvtitlepicturewidth=\skip80
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--19
 [][]\T1/lmr/m/n/34 Alexandre
@@ -1143,11 +1144,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 20.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
 [1
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./Normandie
 -53.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
+ [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
  (./cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
@@ -1156,13 +1158,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 503A50E29DF32442AFD782A6AA3DDB0C;395.
  ) 
 Here is how much of TeX's memory you used:
- 24537 strings out of 495034
- 438857 string characters out of 6181677
+ 24544 strings out of 495034
+ 438948 string characters out of 6181677
  511015 words of memory out of 5000000
- 27300 multiletter control sequences out of 15000+600000
- 63951 words of font info for 64 fonts, out of 8000000 for 9000
+ 27302 multiletter control sequences out of 15000+600000
+ 68474 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,11n,59p,10406b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,13n,59p,10406b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/lm/lmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
@@ -1172,10 +1174,10 @@ e/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/lm/lmro10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/lm/lmro17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marv
 osym.pfb>
-Output written on cv.pdf (1 page, 438352 bytes).
+Output written on cv.pdf (2 pages, 440057 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 19506 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 81 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 21554 words of extra memory for PDF output out of 24883 (max. 10000000)
 
