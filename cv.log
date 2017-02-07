@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.29)  3 DEC 2016 15:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.29)  7 FEB 2017 08:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1188,43 +1188,42 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 21.
 
-Underfull \hbox (badness 4156) in paragraph at lines 38--38
+Underfull \hbox (badness 4156) in paragraph at lines 37--37
 []\T1/lmr/bx/n/10 Scholar Project Learn'in Mo-tion\T1/lmr/m/n/10 (+20) , \T1/lm
 r/m/sl/10 (+20) Team lead-ing\T1/lmr/m/n/10 (+20) , Man-age-ment and
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Normandie-53.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
 
 (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 69BB0B155BCC9556307AB5C5AF27A4D9;347.
  ) 
 Here is how much of TeX's memory you used:
- 25561 strings out of 493304
- 452881 string characters out of 6139871
- 542968 words of memory out of 5000000
- 28547 multiletter control sequences out of 15000+600000
- 60201 words of font info for 61 fonts, out of 8000000 for 9000
+ 25554 strings out of 493304
+ 452787 string characters out of 6139871
+ 541953 words of memory out of 5000000
+ 28545 multiletter control sequences out of 15000+600000
+ 55678 words of font info for 58 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  70i,11n,59p,10406b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmro17.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (1 page, 491113 bytes).
+/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro1
+7.pfb></usr/share/texmf/fonts/type1/public/lm/lmro9.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on cv.pdf (1 page, 455776 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 18994 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 16946 words of extra memory for PDF output out of 17280 (max. 10000000)
 
